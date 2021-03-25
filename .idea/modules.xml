@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/array-stack/array-stack.iml" filepath="$PROJECT_DIR$/array-stack/array-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" filepath="$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" filepath="$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-stack/linked-stack.iml" filepath="$PROJECT_DIR$/linked-stack/linked-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists/lists.iml" filepath="$PROJECT_DIR$/lists/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" filepath="$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vector/vector.iml" filepath="$PROJECT_DIR$/vector/vector.iml" />
+    </modules>
+  </component>
+</project>
