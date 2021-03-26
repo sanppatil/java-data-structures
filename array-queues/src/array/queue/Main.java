@@ -44,7 +44,6 @@ public class Main {
         arrayQueue.enQueue(sandipEmployee);
         System.out.println(arrayQueue.size());
         arrayQueue.printQueue();
-
     }
 
 }
