@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array-queues/array-queues.iml" filepath="$PROJECT_DIR$/array-queues/array-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-stack/array-stack.iml" filepath="$PROJECT_DIR$/array-stack/array-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-queues/circular-queues.iml" filepath="$PROJECT_DIR$/circular-queues/circular-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" filepath="$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" filepath="$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-stack/linked-stack.iml" filepath="$PROJECT_DIR$/linked-stack/linked-stack.iml" />

@@ -1,6 +1,6 @@
-package array.queue;
+package circular.queue;
 
-public class Main {
+public class ArrayQueueMain {
 
     public static void main(String[] args) {
 
@@ -14,37 +14,18 @@ public class Main {
 
         arrayQueue.enQueue(sandipEmployee);
         arrayQueue.enQueue(jackEmployee);
-        arrayQueue.enQueue(gauravEmployee);
+        arrayQueue.deQueue();
         arrayQueue.enQueue(petersonEmployee);
+        arrayQueue.deQueue();
+        arrayQueue.enQueue(gauravEmployee);
+        arrayQueue.deQueue();
         arrayQueue.enQueue(billEmployee);
-
-        System.out.println(arrayQueue.size());
-        arrayQueue.printQueue();
-
-        System.out.println();
-
-        System.out.println(arrayQueue.peek());
-        System.out.println(arrayQueue.deQueue());
-        System.out.println(arrayQueue.peek());
-        System.out.println(arrayQueue.size());
-
-        System.out.println();
-
-        System.out.println(arrayQueue.size());
-        arrayQueue.printQueue();
-
         arrayQueue.deQueue();
-        arrayQueue.deQueue();
-        arrayQueue.deQueue();
-        arrayQueue.deQueue();
-
-        System.out.println(arrayQueue.size());
-        arrayQueue.printQueue();
-
         arrayQueue.enQueue(sandipEmployee);
+        arrayQueue.enQueue(jackEmployee);
+
         System.out.println(arrayQueue.size());
         arrayQueue.printQueue();
-
     }
 
 }
