@@ -45,8 +45,6 @@ public class Main {
         System.out.println(arrayQueue.size());
         arrayQueue.printQueue();
 
-
-
     }
 
 }
