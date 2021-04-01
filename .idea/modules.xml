@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/array-hashtables/array-hashtables.iml" filepath="$PROJECT_DIR$/array-hashtables/array-hashtables.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-queues/array-queues.iml" filepath="$PROJECT_DIR$/array-queues/array-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-stack/array-stack.iml" filepath="$PROJECT_DIR$/array-stack/array-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/bucket-sort/bucket-sort.iml" filepath="$PROJECT_DIR$/bucket-sort/bucket-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/circular-queues/circular-queues.iml" filepath="$PROJECT_DIR$/circular-queues/circular-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" filepath="$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/hashtable-jdk/hashtable-jdk.iml" filepath="$PROJECT_DIR$/hashtable-jdk/hashtable-jdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashtable-linear-probing/hashtable-linear-probing.iml" filepath="$PROJECT_DIR$/hashtable-linear-probing/hashtable-linear-probing.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" filepath="$PROJECT_DIR$/jdk-linked-list/jdk-linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-search/linear-search.iml" filepath="$PROJECT_DIR$/linear-search/linear-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-stack/linked-stack.iml" filepath="$PROJECT_DIR$/linked-stack/linked-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/lists/lists.iml" filepath="$PROJECT_DIR$/lists/lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" filepath="$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" />
