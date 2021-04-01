@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/array-queues/array-queues.iml" filepath="$PROJECT_DIR$/array-queues/array-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-stack/array-stack.iml" filepath="$PROJECT_DIR$/array-stack/array-stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binay-search-tree/binay-search-tree.iml" filepath="$PROJECT_DIR$/binay-search-tree/binay-search-tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/bucket-sort/bucket-sort.iml" filepath="$PROJECT_DIR$/bucket-sort/bucket-sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/circular-queues/circular-queues.iml" filepath="$PROJECT_DIR$/circular-queues/circular-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" filepath="$PROJECT_DIR$/doubly-linked-list/doubly-linked-list.iml" />
